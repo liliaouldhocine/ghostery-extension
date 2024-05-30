@@ -1,7 +1,7 @@
 [![Ghostery](extension-manifest-v2/app/images/hub/side-navigation/ghostery-logo.svg)](https://www.ghostery.com)
 
 # Ghostery Browser Extension
-
+Lilia Ould Hocine
 This repository is home to all Ghostery Browser Extensions for various platforms.
 
 ## Folder structure
